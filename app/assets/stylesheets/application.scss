@@ -25,7 +25,14 @@
         border-radius: 50%;
     }
 }
+.bg-orange {
+    color: white;
+    background-color: orange;
+}
 
+.c-orange {
+    color: orange;
+}
 .notification:not(:last-child) {
     margin-bottom: 0;
 }
